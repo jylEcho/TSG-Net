@@ -4,6 +4,10 @@
 
 TSG-Net integrates arterial (ART), portal venous (PV), and delayed (DL) phases for liver and tumor segmentation in contrast-enhanced CT.
 
+## 📰 News
+- ### 2026.10 — All codes will be released immediately upon acceptance!✅
+
+
 ## 🧠 Overview
 
 The network consists of two main components:
