@@ -22,11 +22,11 @@ This repository includes implementations for **MPLL** and **PLC-CECT**, with two
 
 ### Overall framework
 
-![TSG-Net framework](https://raw.githubusercontent.com/jylEcho/TSG-Net/main/images/Framework.png)
+coming soon~
 
 ### Attention mechanism
 
-![Attention mechanism](https://raw.githubusercontent.com/jylEcho/TSG-Net/main/images/attention.png)
+coming soon~
 
 ## 📁 Repository Structure
 
